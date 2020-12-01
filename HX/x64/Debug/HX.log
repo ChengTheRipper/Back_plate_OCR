@@ -1,0 +1,8 @@
+﻿  CmodbusDlg.cpp
+d:\onedrive\文档\modbus\hx\hx\cmodbusdlg.cpp(169): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\onedrive\文档\modbus\hx\hx\cmodbusdlg.cpp(170): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\onedrive\文档\modbus\hx\hx\cmodbusdlg.cpp(573): warning C4244: “=”: 从“DWORD”转换到“unsigned char”，可能丢失数据
+d:\onedrive\文档\modbus\hx\hx\cmodbusdlg.cpp(574): warning C4244: “=”: 从“DWORD”转换到“unsigned char”，可能丢失数据
+d:\onedrive\文档\modbus\hx\hx\cmodbusdlg.cpp(626): warning C4244: “=”: 从“DWORD”转换到“unsigned char”，可能丢失数据
+d:\onedrive\文档\modbus\hx\hx\cmodbusdlg.cpp(627): warning C4244: “=”: 从“DWORD”转换到“unsigned char”，可能丢失数据
+  HX.vcxproj -> D:\OneDrive\文档\modbus\HX\x64\Debug\HX.exe

@@ -1,0 +1,5 @@
+﻿  CcadDlg.cpp
+d:\hisense\hx14菜单栏更改之前\hx\hx\ccaddlg.cpp(346): warning C4018: “<”: 有符号/无符号不匹配
+d:\hisense\hx14菜单栏更改之前\hx\hx\ccaddlg.cpp(360): warning C4018: “<”: 有符号/无符号不匹配
+d:\hisense\hx14菜单栏更改之前\hx\hx\ccaddlg.cpp(367): warning C4018: “<”: 有符号/无符号不匹配
+  HX.vcxproj -> D:\Hisense\HX14菜单栏更改之前\HX\Debug\HX.exe
